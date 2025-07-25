@@ -1,0 +1,1 @@
+This is a voting application backend project where people can give vote.
